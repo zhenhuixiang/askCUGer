@@ -1,0 +1,15 @@
+/*公共样式在index.html中引入*/
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #eee;
+  font-family: "微软雅黑";
+}
+a{
+  text-decoration-line: none;
+}
+a:visited{
+  color: #777;
+}
